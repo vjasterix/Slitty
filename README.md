@@ -1,5 +1,5 @@
 # Slitty
-Get wankered, then load this thing up
+Get wankered, then load this thing up in Touchdesigner
 
 ![](http://www.imagineer.net.au/vj/slitty.jpg)
 
