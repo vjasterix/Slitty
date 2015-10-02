@@ -1,5 +1,8 @@
 # Slitty
 Get wankered, then load this thing up
+
+![](http://www.imagineer.net.au/vj/slitty.jpg)
+
 #You need a webcam
 1. Or feed a video file into it.
 2. Change the gradient for different effects.
